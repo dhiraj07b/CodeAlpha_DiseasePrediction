@@ -86,21 +86,6 @@ Logistic Regression was used as the primary classification algorithm to predict 
 
 The model demonstrates strong predictive performance on unseen test data.
 
----
-
-## 📷 Output Screenshots
-
-Add screenshots of:
-
-* Dataset Preview
-* Accuracy Output
-* Classification Report
-* Feature Importance Graph
-
-inside a folder named `screenshots`.
-
----
-
 ## 🚀 How to Run the Project
 
 ### Clone Repository
@@ -135,7 +120,6 @@ CodeAlpha_DiseasePrediction
 ├── disease_prediction.ipynb
 ├── heart.csv
 ├── README.md
-└── screenshots
 ```
 
 ---
